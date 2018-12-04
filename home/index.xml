@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on R-Ladies Irvine</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on R-Ladies Irvine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About R-Ladies Irvine is part of a world-wide organization to promote gender diversity in the R community. We aspire to encourage and support women interested in learning and sharing their experience in R programming by hosting a variety of events including talks, workshops, and socials.
+Anyone with an interest in R is welcome - beginners, experts and everyone in between. We exchange ideas, share knowledge, and create a friendly network among women who use R!</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Events</title>
+      <link>/home/posts_events/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts_events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Blog Posts</title>
+      <link>/home/posts_blog/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts_blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Board</title>
+      <link>/home/board/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/board/</guid>
+      <description>Alyssa Columbus Alyssa Columbus is a data scientist at Pacific Life and member of the Spring 2018 Class of NASA Datanauts. Previously, she was a computational statistics and machine learning researcher at the Athena Breast Health Network, and she has built robust predictive models and applications for a diverse range of industries spanning retail to biologics. Alyssa holds a degree in Applied and Computational Mathematics from the University of California, Irvine and is a strong proponent of reproducible methods, open source technologies, and diversity in tech.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
