@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on R-Ladies Irvine</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on R-Ladies Irvine</description>
+    <title>event on R-Ladies Irvine</title>
+    <link>/tags/event/</link>
+    <description>Recent content in event on R-Ladies Irvine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Coming soon!</title>
-      <link>/post/coming-soon/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/coming-soon/</guid>
-      <description>Stay tuned in 2019 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
-Interested in writing a blog post?
-Contact us at irvine@rladies.org.</description>
-    </item>
     
     <item>
       <title>R Markdown and Data Visualization with ggplot2</title>
@@ -97,15 +86,6 @@ ggplot2 cheatsheet: https://www.</description>
       <description>Hi everyone!
 Our kickoff meeting will be held from 7 - 8:30pm in Rowland Hall, room 306 (on the 3rd floor)! Here&amp;rsquo;s a helpful map of UC Irvine.
    Agenda      7:00 - 7:15 Welcome and Networking   7:15 - 7:45 Intro to R-Ladies Irvine + How to Get Involved   7:45 - 8:15 Planning Session + Goals for the Group   8:15 - 8:30 Networking and Cleanup    Parking: The closest lots are lots 16, 16H, and 12B.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2018-05-16-r-ladies-irvine-kickoff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-05-16-r-ladies-irvine-kickoff/</guid>
-      <description>R-Ladies Irvine Kickoff!code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>

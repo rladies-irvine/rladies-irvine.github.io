@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on R-Ladies Irvine</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on R-Ladies Irvine</description>
+    <title>workshop on R-Ladies Irvine</title>
+    <link>/tags/workshop/</link>
+    <description>Recent content in workshop on R-Ladies Irvine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Coming soon!</title>
-      <link>/post/coming-soon/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/coming-soon/</guid>
-      <description>Stay tuned in 2019 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
-Interested in writing a blog post?
-Contact us at irvine@rladies.org.</description>
-    </item>
     
     <item>
       <title>R Markdown and Data Visualization with ggplot2</title>
@@ -49,33 +38,6 @@ We&amp;rsquo;re going to kick off the 2018-19 academic year with an Intro to R t
     </item>
     
     <item>
-      <title>End-of-Summer Social</title>
-      <link>/post/end-of-summer-social/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/end-of-summer-social/</guid>
-      <description>Hi everyone!
-This month&amp;rsquo;s meeting will be a social at UTC, where we&amp;rsquo;ll socialize, network, and hang out.
-There will be no formal technical talks at this meeting; instead, this time will be used to network and exchange ideas with fellow R-Ladies.
-Schedule
-7:00pm - 8:30pm: Socializing/Networking/Hanging out + Group Picture
-Additional friends and family members are welcome to attend.
-Parking at UTC is free. :)
-Visit our Meetup page for more details and to RSVP.</description>
-    </item>
-    
-    <item>
-      <title>Lightning Talks!</title>
-      <link>/post/lightning-talks/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lightning-talks/</guid>
-      <description>Hi everyone!
-This month&amp;rsquo;s meeting will be a series of lightning talks given by you!
-In this fun, informal setting, participants will have approximately 5-10 minutes (length depending on number of responses) to speak about their research, work, or a puzzle they’re trying to solve with R – anything goes! Our goals are to (1) provide a space to learn about others in our community and (2) exchange ideas about the methodologies, interests, and tools we all are using.</description>
-    </item>
-    
-    <item>
       <title>Navigating the tidyverse: ggplot2</title>
       <link>/post/navigating-the-tidyverse-ggplot2/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
@@ -97,15 +59,6 @@ ggplot2 cheatsheet: https://www.</description>
       <description>Hi everyone!
 Our kickoff meeting will be held from 7 - 8:30pm in Rowland Hall, room 306 (on the 3rd floor)! Here&amp;rsquo;s a helpful map of UC Irvine.
    Agenda      7:00 - 7:15 Welcome and Networking   7:15 - 7:45 Intro to R-Ladies Irvine + How to Get Involved   7:45 - 8:15 Planning Session + Goals for the Group   8:15 - 8:30 Networking and Cleanup    Parking: The closest lots are lots 16, 16H, and 12B.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2018-05-16-r-ladies-irvine-kickoff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-05-16-r-ladies-irvine-kickoff/</guid>
-      <description>R-Ladies Irvine Kickoff!code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>

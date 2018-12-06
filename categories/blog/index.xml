@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on R-Ladies Irvine</title>
+    <link>/categories/blog/</link>
+    <description>Recent content in blog on R-Ladies Irvine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming soon!</title>
+      <link>/post/coming-soon/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/coming-soon/</guid>
+      <description>Stay tuned in 2019 for the R-Ladies Irvine blog, which will feature guest bloggers from the R-Ladies Irvine community!
+Interested in writing a blog post?
+Contact us at irvine@rladies.org.</description>
+    </item>
+    
+  </channel>
+</rss>
