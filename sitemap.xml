@@ -132,16 +132,6 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
-      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/blog/</loc>
       <lastmod>2018-12-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -152,8 +142,8 @@
     
     <url>
     
-      <loc>/categories/event/</loc>
-      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+      <loc>/categories/blog/</loc>
+      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,8 +162,8 @@
     
     <url>
     
-      <loc>/categories/social/</loc>
-      <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+      <loc>/categories/event/</loc>
+      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -192,8 +182,8 @@
     
     <url>
     
-      <loc>/categories/talk/</loc>
-      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+      <loc>/categories/social/</loc>
+      <lastmod>2018-08-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -212,7 +202,7 @@
     
     <url>
     
-      <loc>/categories/workshop/</loc>
+      <loc>/categories/talk/</loc>
       <lastmod>2018-11-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -223,6 +213,16 @@
     <url>
     
       <loc>/tags/workshop/</loc>
+      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/workshop/</loc>
       <lastmod>2018-11-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
