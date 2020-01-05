@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualization of Gene Expression Data and How to Successfully Start a New Job</title>
+      <link>/post/visualization-of-gene-expression-data-and-how-to-successfully-start-a-new-job/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/visualization-of-gene-expression-data-and-how-to-successfully-start-a-new-job/</guid>
+      <description>Visualization of Gene Expression Data &amp;amp; How to Successfully Start a New JobScheduleTuesday, January 14th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Bingo7:00 - Announcements7:05 - [Career Corner] How to Successfully Start a New Job7:20 - 10-Minute Break7:30 - [R Time] Visualization of Gene Expression Data8:00 - Socializing and Networking8:30 - Meeting Adjourned # Meeting LocationUC Irvine CampusSchool of MedicineBuilding and Room TBAHere are a few helpful maps of UCI to help you find us: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Halloween Hackathon</title>
+      <link>/post/halloween-hackathon/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/halloween-hackathon/</guid>
+      <description>Halloween HackathonEvent SummaryJoin us for our Halloween celebration and hackathon! Come as you are or in a costume. Together, we&amp;rsquo;ll learn how to build a Halloween animation and other animated visualizations with the gganimate package.</description>
+    </item>
+    
+    <item>
+      <title>R Package Development Workshop</title>
+      <link>/post/r-package-development-workshop/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-package-development-workshop/</guid>
+      <description>R Package Development WorkshopThu, Aug 8, 2019, 6:30 PM: # Event SummaryWant to learn how to build an R package, but aren&amp;rsquo;t sure where to start? This workshop is for you! Run by R-Ladies Irvine, the goal of this workshop is to emp</description>
+    </item>
+    
+    <item>
+      <title>Pi Day</title>
+      <link>/post/pi-day/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pi-day/</guid>
+      <description>Pi Day + The Growth of R in the Actuarial ProfessionHi everyone! This meeting will be at a new venue: PeopleSpace in Irvine! From now on, we will be meeting every second Thursday of the month at PeopleSpace.</description>
+    </item>
+    
+    <item>
+      <title>Happy Shiny New Year</title>
+      <link>/post/happy-shiny-new-year/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/happy-shiny-new-year/</guid>
+      <description>Happy Shiny New Year!Wed, Jan 30, 2019, 6:30 PM: Hi everyone!Per your requests, we&amp;rsquo;re having a tutorial on interactive data visualization with R Shiny and using R with a related data visualization platform, Tableau!Guest</description>
+    </item>
     
     <item>
       <title>R Markdown and Data Visualization with ggplot2</title>
@@ -18,12 +63,7 @@
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/r-markdown-and-data-visualization-with-ggplot2/</guid>
-      <description>Hi everyone!
-Per your requests, we&amp;rsquo;re going to have a series of Tidyverse tutorials, starting with this one on ggplot2 and R Markdown!
-Please bring your laptops and have R, RStudio, and the tidyverse package (all open-source and free) installed and working. However, if you&amp;rsquo;re having issues with any of these, don&amp;rsquo;t worry! We&amp;rsquo;re all here to help. :)
-To Install R: https://cran.r-project.org/
-To Install RStudio: https://www.rstudio.com/products/rstudio/download/
-To Install the Tidyverse Package: https://www.</description>
+      <description>November 2018 Tutorial: R Markdown and Data Visualization with ggplot2Hi everyone! Per your requests, we&amp;rsquo;re going to have a series of Tidyverse tutorials, starting with this one on ggplot2 and R Markdown! Please bring your laptops and have R, RStudio, and the tidyverse package (all open-source and free) installed and working. However, if you&amp;rsquo;re having issues with any of these, don&amp;rsquo;t worry!</description>
     </item>
     
     <item>
@@ -32,9 +72,7 @@ To Install the Tidyverse Package: https://www.</description>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/fall-2018-kickoff-intro-to-r/</guid>
-      <description>Hi everyone!
-We&amp;rsquo;re going to kick off the 2018-19 academic year with an Intro to R tutorial! Per your requests, our co-organizers will show you:
- how to navigate R and RStudio how to manipulate and sort dataframes with base R and dplyr how to find helpful R learning resources and much more!  Please bring your laptops and have R, RStudio, and the tidyverse package (all open-source and free) installed and working.</description>
+      <description>Fall 2018 Kickoff: Intro to R!Hi everyone! We&amp;rsquo;re going to kick off the[masked] academic year with an Intro to R tutorial! Per your requests, our co-organizers will show you:- how to navigate R and RStudio- how to manipulate and sort dataframes with base R and dplyr- how to find helpful R learning resources- and much more!</description>
     </item>
     
     <item>
@@ -43,11 +81,7 @@ We&amp;rsquo;re going to kick off the 2018-19 academic year with an Intro to R t
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/navigating-the-tidyverse-ggplot2/</guid>
-      <description>Hi everyone!
-As tutorials on packages (specifically the tidyverse, and in particular, ggplot2) were the most popular requests in our survey, this meeting will be a workshop exploring the wonders of ggplot2!
-Please bring your laptops and have R, RStudio, and the tidyverse package installed and working. However, if you&amp;rsquo;re having issues with any of these, don&amp;rsquo;t worry! We&amp;rsquo;re all here to help. :)
-What is ggplot2? http://ggplot2.tidyverse.org/
-ggplot2 cheatsheet: https://www.</description>
+      <description>Navigating the tidyverse: ggplot2Hi everyone! As tutorials on packages (specifically the tidyverse, and in particular, ggplot2) were the most popular requests in our survey, this meeting will be a workshop exploring the wonders of ggplot2! Please bring your laptops and have R, RStudio, and the tidyverse package installed and working.</description>
     </item>
     
     <item>
@@ -56,9 +90,7 @@ ggplot2 cheatsheet: https://www.</description>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/r-ladies-irvine-kickoff/</guid>
-      <description>Hi everyone!
-Our kickoff meeting will be held from 7 - 8:30pm in Rowland Hall, room 306 (on the 3rd floor)! Here&amp;rsquo;s a helpful map of UC Irvine.
-   Agenda      7:00 - 7:15 Welcome and Networking   7:15 - 7:45 Intro to R-Ladies Irvine + How to Get Involved   7:45 - 8:15 Planning Session + Goals for the Group   8:15 - 8:30 Networking and Cleanup    Parking: The closest lots are lots 16, 16H, and 12B.</description>
+      <description>R-Ladies Irvine Kickoff!Hi everyone! ***Update: since we&amp;rsquo;ve had a much larger than expected amount of people RSVP (thank you!), we&amp;rsquo;ve had to move our meetup to another location on UC Irvine&amp;rsquo;s campus.</description>
     </item>
     
   </channel>
