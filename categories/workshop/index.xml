@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 R-Ladies Irvine</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sports Statistics, Advancing Your Career in 2020, and R Adoption in the Enterprise</title>
+      <link>/post/sports-statistics-advancing-your-career-in-2020-and-r-adoption-in-the-enterprise/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sports-statistics-advancing-your-career-in-2020-and-r-adoption-in-the-enterprise/</guid>
+      <description>Sports Statistics, Advancing Your Career in 2020, &amp;amp; R Adoption in the EnterpriseScheduleTuesday, March 17th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Scavenger Hunt6:55 - Announcements7:00 - [Career Corner] Advancing Your Career in 2020 &amp;amp; R Adoption in the Enterprise7:20 - 10-Minute Break7:30 - [R Time] A Sports Statistics Show and Tell8:30 - Meeting Adjourned # Meeting LocationUC Irvine CampusSchool of MedicineBuilding and Room TBAHere are a few helpful maps of UCI to help you find us: https://www.</description>
+    </item>
     
     <item>
       <title>Visualization of Gene Expression Data and How to Successfully Start a New Job</title>
