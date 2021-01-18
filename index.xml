@@ -11,13 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Getting Started with R and Introduction to RStudio for Data Mapping</title>
+      <title>R-Ladies Irvine and WiMLDS Seattle - When Climate Science Meets Data Science</title>
+      <link>/post/when-climate-science-meets-data-science/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-climate-science-meets-data-science/</guid>
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/275473956/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/7/7/9/7/600_494190615.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;R-Ladies Irvine &amp; WiMLDS Seattle: When Climate Science Meets Data Science&lt;/h3&gt;&lt;p&gt;Tue, Jan 19, 2021, 5:30 PM: # ScheduleTuesday, January 19th, 5:30-7:30pm (Pacific)5:30 - Welcome and Announcements5:45 - Using Machine Learning and Dispersion Modeling to Predict Emissions6:20 - Q&amp;A f&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regression Overview and A Study of Medical Treatments for COVID-19</title>
+      <link>/post/regression-overview-and-medical-treatments-covid/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/regression-overview-and-medical-treatments-covid/</guid>
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/274328827/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/5/a/6/b/600_492023147.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Regression Overview + A Study of Medical Treatments for COVID-19&lt;/h3&gt;&lt;p&gt;Tue, Nov 17, 2020, 6:30 PM: # ScheduleTuesday, November 17th, 6:30-8:30pm6:30 - Zoom Breakout Rooms Networking Activity6:55 - Announcements7:00 - Regression Overview7:35 - A Study of Medical Treatment&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Find a Mentor</title>
+      <link>/post/how-to-find-a-mentor/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-find-a-mentor/</guid>
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/272837863/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/5/a/6/b/600_492023147.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;How to Find a Mentor&lt;/h3&gt;&lt;p&gt;Tue, Sep 15, 2020, 6:30 PM: # How to Find a Mentor# ScheduleTuesday, September 15th, 6:30-8:30pm6:30 - Zoom Breakout Rooms Networking Activity6:55 - Announcements7:00 - How to Find a Mentor Talk #1 (G&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Irvine and Scatter Data Podcast Data Science Career Panel</title>
+      <link>/post/data-science-career-panel/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-career-panel/</guid>
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/271509469/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/2/9/9/5/600_491290645.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;R-Ladies Irvine &amp; Scatter Data Podcast Data Science Career Panel&lt;/h3&gt;&lt;p&gt;Tue, Jul 21, 2020, 6:30 PM: # R-Ladies Irvine &amp; Scatter Data Podcast Data Science Career Panel# ScheduleTuesday, July 21st, 6:30-8:30pm6:30 - Zoom Breakout Rooms Networking Activity6:55 - Announcement&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to RStudio for Data Mapping and Getting Started with R</title>
       <link>/post/getting-started-with-r-and-introduction-to-rstudio-for-data-mapping/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/getting-started-with-r-and-introduction-to-rstudio-for-data-mapping/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/269681775/&#34;&gt;Getting Started with R and Introduction to RStudio for Data Mapping&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;ScheduleTuesday, May 19th, 6:30-8:30pm6:30 - [Online Networking Activity] Zoom Breakout Rooms6:55 - Announcements7:00 - [Career Corner] Getting Started with R7:20 - 10-Minute Break7:30 - [R Time] Introduction to RStudio for Data Mapping8:30 - Meeting Adjourned # Meeting LocationOnline.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/269681775/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Introduction to RStudio for Data Mapping + Getting Started with R&lt;/h3&gt;&lt;p&gt;Tue, May 19, 2020, 6:30 PM: # ScheduleTuesday, May 19th, 6:30-8:30pm6:30 - [Online Networking Activity] Zoom Breakout Rooms6:55 - Announcements7:00 - [Career Corner] Getting Started with R7:20 - 10-Mi&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -27,8 +66,7 @@
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/sports-statistics-advancing-your-career-in-2020-and-r-adoption-in-the-enterprise/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/267838000/&#34;&gt;Sports Statistics, Advancing Your Career in 2020, &amp;amp; R Adoption in the Enterprise&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;ScheduleTuesday, March 17th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Scavenger Hunt6:55 - Announcements7:00 - [Career Corner] Advancing Your Career in 2020 &amp;amp; R Adoption in the Enterprise7:20 - 10-Minute Break7:30 - [R Time] A Sports Statistics Show and Tell8:30 - Meeting Adjourned # Meeting LocationUC Irvine Campus.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/267838000/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Sports Statistics, Advancing Your Career in 2020, &amp; R Adoption in the Enterprise&lt;/h3&gt;&lt;p&gt;Tue, Mar 17, 2020, 6:30 PM: # ScheduleTuesday, March 17th, 6:30-8:30pm6:30 - [Online Networking Activity] Zoom Breakout Rooms6:55 - Announcements7:00 - [Career Corner] Advancing Your Career in 2020 &amp;&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -38,8 +76,7 @@
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/visualization-of-gene-expression-data-and-how-to-successfully-start-a-new-job/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/266904933/&#34;&gt;Visualization of Gene Expression Data &amp;amp; How to Successfully Start a New Job&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;ScheduleTuesday, January 14th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Bingo7:00 - Announcements7:05 - [Career Corner] How to Successfully Start a New Job7:20 - 10-Minute Break7:30 - [R Time] Visualization of Gene Expression Data8:00 - Socializing and Networking8:30 - Meeting Adjourned # Meeting LocationUC Irvine Campus.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/266904933/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Visualization of Gene Expression Data &amp; How to Successfully Start a New Job&lt;/h3&gt;&lt;p&gt;Tue, Jan 14, 2020, 6:30 PM: # ScheduleTuesday, January 14th, 6:30-8:30pm6:30 - [Networking Activity] R-Ladies Networking Bingo7:00 - Announcements7:05 - [Career Corner] How to Successfully Start a New&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -49,8 +86,7 @@
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/4th-annual-oc-tech-user-group-holiday-party/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/266170963/&#34;&gt;4th Annual OC Tech User Group Winter Party&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Tue, Dec 10, 2019, 6:30 PM: For more details and to RSVP please visit EventBrite:&lt;a href=&#34;https://octugwinter.eventbrite.com/&#34; target=&#34;_blank&#34;&gt;https://octugwinter.eventbrite.com/&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/266170963/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/8/f/4/b/600_486696683.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;4th Annual OC Tech User Group Winter Party&lt;/h3&gt;&lt;p&gt;Tue, Dec 10, 2019, 6:30 PM: For more details and to RSVP please visit EventBrite:https://octugwinter.eventbrite.com/&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -60,8 +96,7 @@
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/halloween-hackathon/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/265252237/&#34;&gt;Halloween Hackathon&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Event SummaryJoin us for our Halloween celebration and hackathon! Come as you are or in a costume. Together, we&amp;rsquo;ll learn how to build a Halloween animation and other animated visualizations with the gganimate package.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/265252237/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Halloween Hackathon&lt;/h3&gt;&lt;p&gt;Thu, Oct 10, 2019, 6:30 PM: # Event SummaryJoin us for our Halloween celebration and hackathon!Come as you are or in a costume. Together, we&#39;ll learn how to build a Halloween animation and other anima&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -71,8 +106,7 @@
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/r-package-development-workshop/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/262950166/&#34;&gt;R Package Development Workshop&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Thu, Aug 8, 2019, 6:30 PM: # Event SummaryWant to learn how to build an R package, but aren&amp;rsquo;t sure where to start? This workshop is for you! Run by R-Ladies Irvine, the goal of this workshop is to emp&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/262950166/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/a/b/c/9/600_482923977.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;R Package Development Workshop&lt;/h3&gt;&lt;p&gt;Thu, Aug 8, 2019, 6:30 PM: # Event SummaryWant to learn how to build an R package, but aren&#39;t sure where to start? This workshop is for you! Run by R-Ladies Irvine, the goal of this workshop is to emp&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -82,8 +116,7 @@
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/oc-tech-user-groups-summer-bash-2019/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/260393692/&#34;&gt;R-Ladies Irvine @ OC Tech User Groups (OCUG) Summer Bash 2019&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Crossposted from PeopleSpace: &lt;a href=&#34;https://www.meetup.com/peoplespace/events/260333506/&#34; target=&#34;_blank&#34;&gt;https://www.meetup.com/peoplespace/events/260333506/&lt;/a&gt; OC Tech User Groups Summer Bash 2019.EVENTBRITE REGISTRATION: &lt;a href=&#34;https://ocug-summerbash-2019.eventbrite.com&#34; target=&#34;_blank&#34;&gt;https://ocug-summerbash-2019.eventbrite.com&lt;/a&gt; This is a joint group effort by the following meetup groups: &amp;hellip; .&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/260393692/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/7/3/9/d/600_480149597.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;R-Ladies Irvine @ OC Tech User Groups (OCUG) Summer Bash 2019&lt;/h3&gt;&lt;p&gt;Thu, Jun 13, 2019, 6:30 PM: Crossposted from PeopleSpace: https://www.meetup.com/peoplespace/events/260333506/OC Tech User Groups Summer Bash 2019.EVENTBRITE REGISTRATION:https://ocug-summerbash-2019.&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -93,8 +126,7 @@
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/ocrug-r-ladies-irvine-oclb-asa-chapter-ieee-oc-cs-datafest-celebration/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/260603442/&#34;&gt;OCRUG/R-Ladies Irvine/OCLB ASA Chapter/IEEE OC CS DataFest Celebration&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Schedule (rescheduled from Tuesday, May 28)- Monday, May 20, 6:30-8:30pm6:30 - Check-in and Networking7:00 - Announcements7:15 - DataFest Winner Presentations8:05 - Round-table Discussion8:30 - Meeting Adjourned .&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/260603442/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/7/0/3/d/600_480388733.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;OCRUG/R-Ladies Irvine/OCLB ASA Chapter/IEEE OC CS DataFest Celebration&lt;/h3&gt;&lt;p&gt;Mon, May 20, 2019, 6:30 PM: Schedule (rescheduled from Tuesday, May 28)- Monday, May 20, 6:30-8:30pm6:30 - Check-in and Networking7:00 - Announcements7:15 - DataFest Winner Presentations8:05 - Round-t&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -104,8 +136,7 @@
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/pi-day/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/258783583/&#34;&gt;Pi Day + The Growth of R in the Actuarial Profession&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hi everyone! This meeting will be at a new venue: PeopleSpace in Irvine! From now on, we will be meeting every second Thursday of the month at PeopleSpace.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/258783583/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/b/0/8/9/600_478725193.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Pi Day&lt;/h3&gt;&lt;p&gt;Thu, Mar 14, 2019, 6:30 PM: Hi everyone!This meeting will be at a new venue: PeopleSpace in Irvine! From now on, we will be meeting every second Thursday of the month at PeopleSpace.Schedule- Thursday&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -115,8 +146,7 @@
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/happy-shiny-new-year/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/257294581/&#34;&gt;Happy Shiny New Year!&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Wed, Jan 30, 2019, 6:30 PM: Hi everyone!Per your requests, we&amp;rsquo;re having a tutorial on interactive data visualization with R Shiny and using R with a related data visualization platform, Tableau!Guest&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+      <description>&lt;div class=&#34;card&#34;&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.meetup.com/rladies-irvine/events/257294581/&#34;&gt;&lt;img onerror=&#34;this.style.display=&#39;none&#39;&#34; class=&#34;card-image&#34; src=&#34;https://secure.meetupstatic.com/photos/event/b/3/e/7/600_478726055.jpeg&#34;&gt;&lt;div class=&#34;card-text&#34;&gt;&lt;h3&gt;Happy Shiny New Year!&lt;/h3&gt;&lt;p&gt;Wed, Jan 30, 2019, 6:30 PM: Hi everyone!Per your requests, we&#39;re having a tutorial on interactive data visualization with R Shiny and using R with a related data visualization platform, Tableau!Guest&lt;/p&gt;&lt;p class=&#34;signup&#34;&gt;&lt;b&gt;Embedded From Meetup&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
@@ -131,50 +161,6 @@
 &lt;p&gt;Interested in writing a blog post?&lt;/p&gt;
 
 &lt;p&gt;Contact us at &lt;a href=&#34;mailto:irvine@rladies.org&#34; target=&#34;_blank&#34;&gt;irvine@rladies.org&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R Markdown and Data Visualization with ggplot2</title>
-      <link>/post/r-markdown-and-data-visualization-with-ggplot2/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-markdown-and-data-visualization-with-ggplot2/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/255538538/&#34;&gt;November 2018 Tutorial: R Markdown and Data Visualization with ggplot2&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hi everyone! Per your requests, we&amp;rsquo;re going to have a series of Tidyverse tutorials, starting with this one on ggplot2 and R Markdown! Please bring your laptops and have R, RStudio, and the tidyverse package (all open-source and free) installed and working. However, if you&amp;rsquo;re having issues with any of these, don&amp;rsquo;t worry!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fall 2018 Kickoff: Intro to R!</title>
-      <link>/post/fall-2018-kickoff-intro-to-r/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/fall-2018-kickoff-intro-to-r/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/254131326/&#34;&gt;Fall 2018 Kickoff: Intro to R!&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hi everyone! We&amp;rsquo;re going to kick off the[masked] academic year with an Intro to R tutorial! Per your requests, our co-organizers will show you:- how to navigate R and RStudio- how to manipulate and sort dataframes with base R and dplyr- how to find helpful R learning resources- and much more!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>End-of-Summer Social</title>
-      <link>/post/end-of-summer-social/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/end-of-summer-social/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/253008885/&#34;&gt;End-Of-Summer Social&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hi everyone! This month&amp;rsquo;s meeting will be a social at UTC, where we&amp;rsquo;ll socialize, network, and hang out. There will be no formal technical talks at this meeting; instead, this time will be used to network and exchange ideas with fellow R-Ladies.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lightning Talks!</title>
-      <link>/post/lightning-talks/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lightning-talks/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.meetup.com/rladies-irvine/events/252312773/&#34;&gt;Lightning Talks!&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hi everyone! This month&amp;rsquo;s meeting will be a series of lightning talks given by &lt;strong&gt;you!&lt;/strong&gt; In this fun, informal setting, participants will have approximately 5-10 minutes (length depending on number of responses) to speak about their research, work, or a puzzle they&amp;rsquo;re trying to solve with R - anything goes!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
