@@ -5,6 +5,69 @@
     
     <url>
     
+      <loc>/post/2022-05-31-how-to-get-started-with-r/</loc>
+      <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2022-01-18-r-goals-for-2022/</loc>
+      <lastmod>2022-01-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-11-30-r-ladies-irvine-networking-announcements-q-a/r-ladies-irvine-networking-announcements/</loc>
+      <lastmod>2021-11-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-10-26-teaching-and-learning-bayesian-statistics-with-bayesrules/teaching-and-learning-bayesian-statistics-with-bayesrules/</loc>
+      <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-09-21-r-tutorial-easy-exploratory-data-analysis-in-r/r-tutorial-easy-exploratory-data-analysis-in-r/</loc>
+      <lastmod>2021-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-05-25-social-vulnerability-and-covid-19-prevalence-predicting-benzodiazepines-use/social-vulnerability-and-covid/</loc>
+      <lastmod>2021-05-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2021-03-16-undergraduate-research-with-graduate-topics-experimental-design-with-tidyverse/undergraduate-research-with-graduate-topics-and-experimental-design-with-tidyverse/</loc>
+      <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/when-climate-science-meets-data-science/</loc>
       <lastmod>2021-01-15T00:00:00+00:00</lastmod>
     </url>
@@ -250,16 +313,6 @@
     
     <url>
     
-      <loc>/tags/blog/</loc>
-      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/blog/</loc>
       <lastmod>2018-12-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -270,8 +323,8 @@
     
     <url>
     
-      <loc>/tags/event/</loc>
-      <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+      <loc>/tags/blog/</loc>
+      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -281,7 +334,7 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+      <lastmod>2022-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -290,8 +343,8 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
-      <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+      <loc>/tags/event/</loc>
+      <lastmod>2022-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -310,8 +363,8 @@
     
     <url>
     
-      <loc>/tags/talk/</loc>
-      <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+      <loc>/tags/social/</loc>
+      <lastmod>2019-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -321,7 +374,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+      <lastmod>2022-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -330,8 +383,8 @@
     
     <url>
     
-      <loc>/tags/workshop/</loc>
-      <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+      <loc>/tags/talk/</loc>
+      <lastmod>2022-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -341,7 +394,17 @@
     <url>
     
       <loc>/categories/workshop/</loc>
-      <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+      <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/workshop/</loc>
+      <lastmod>2021-03-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
